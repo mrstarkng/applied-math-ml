@@ -1,1 +1,1 @@
-# applied-math-ml
+# Applied Mathematics and Statistics
